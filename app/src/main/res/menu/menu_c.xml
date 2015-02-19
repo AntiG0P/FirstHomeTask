@@ -1,0 +1,13 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.lukyan.firsthometask.CActivity">
+
+
+    <item
+        android:id="@+id/action_from_cc_to_aa"
+        android:title="A_Activity"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>

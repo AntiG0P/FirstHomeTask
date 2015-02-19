@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FirstHomeTask</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_a">AActivity</string>
+    <string name="title_activity_b">BActivity</string>
+    <string name="title_activity_c">CActivity</string>
+    <string name="string_name_Aa">AAAAAAAAAAAA</string>
+    <string name="string_name_Bb">BBBBBBBBBB</string>
+    <string name="string_name_C">CCCCCCCCCCCCC</string>
+
+</resources>

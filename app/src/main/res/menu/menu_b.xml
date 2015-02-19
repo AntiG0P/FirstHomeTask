@@ -1,0 +1,17 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.lukyan.firsthometask.BActivity">
+
+    <item
+        android:id="@+id/action_from_bb_to_cc"
+        android:title="C_Activity"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_from_bb_to_exit"
+        android:title="From_bb_to_Exit"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>
